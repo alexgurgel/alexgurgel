@@ -1,6 +1,6 @@
-######## Olá pessoal 👋
+# Olá pessoal 👋
 
-####### 🖊 Sobre mim
+## 🖊 Sobre mim
 
 Meu nome é Alex Gabriel, e sou um entusiasta de programação apaixonado por tecnologias. Estou começando na área, e sempre em busca de aprender coisas novas. 
 
@@ -10,13 +10,13 @@ Meu nome é Alex Gabriel, e sou um entusiasta de programação apaixonado por te
 
 ---------------------------
 
-##### ⚙ Projeto
+## ⚙ Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexgurgel&repo=Tiktok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------
 
-##### 📞 Contato
+## 📞 Contato
 
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 
