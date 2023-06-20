@@ -4,6 +4,9 @@
 
 Meu nome é Alex Gabriel, e sou um entusiasta de programação apaixonado por tecnologias. Estou começando na área, e sempre em busca de aprender coisas novas. 
 
+- 🔭 Futuro dev web.
+- 🌱 Estudando HTML5, CSS, JavaScript, React, Node, MySQL
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgurgel&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgurgel&layout=compact&theme=dark)
