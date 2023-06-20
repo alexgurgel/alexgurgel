@@ -1,16 +1,32 @@
-### Hi there 👋
+######## Olá pessoal 👋
 
-<!--
-**alexgurgel/alexgurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####### 🖊 Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é Alex Gabriel, e sou um entusiasta de programação apaixonado por tecnologias. Estou começando na área, e sempre em busca de aprender coisas novas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgurgel&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgurgel&layout=compact&theme=dark)
+
+---------------------------
+
+##### ⚙ Projeto
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexgurgel&repo=Tiktok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---------------------------
+
+##### 📞 Contato
+
+Se você gostaria de entrar em contato comigo, você pode me encontrar em:
+
+<div> 
+   <a href = "alexgabrielb@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alex-gurgel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+   ![Snake animation](https://github.com/chaltech/chaltech/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+## Obrigado pela visita!
+
+Obrigado por conferir o meu perfil do GitHub! Fique à vontade para explorar meus projetos e entrar em contato comigo. Mal posso esperar para colaborar e aprender.
